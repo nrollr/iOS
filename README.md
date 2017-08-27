@@ -6,11 +6,6 @@ Made a copy of the presentation, Ivan Krstić gave at Black Hat 2016, slide-by-s
 * PDF version posted on Black Hat website - [Link](https://www.blackhat.com/docs/us-16/materials/us-16-Krstic.pdf)
 
 
-##### ToDo
-* *~~Keynote presentation~~*
-* Transcript of the presentation
-* *~~Other file type (eg. .pptx)~~*
-  
   
 ## Disclaimer
 * Author of the presentation: **Ivan Krstić**
